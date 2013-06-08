@@ -8,7 +8,7 @@ mongroup is a wrapper for [mon](https://github.com/visionmedia/mon/).  It allows
 
 One-liner:
 
-	(mkdir /tmp/mongroup && cd /tmp/mongroup && curl -L# https://github.com/jgallen23/mongroup/archive/master.tar.gz | tar zx --strip 1 && make install)
+	(mkdir /tmp/mongroup && cd /tmp/mongroup && curl -L# https://github.com/Ensequence/mongroup/archive/master.tar.gz | tar zx --strip 1 && make install)
 
 ## Usage
 
